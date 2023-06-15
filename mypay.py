@@ -29,6 +29,6 @@ while True:
     # print(con)
     # cv2.drawContours(new_img,con,-1,(230,111,148),1) # рисуем выделенные контуры
     # img = rotate(img,-90)
-    cv2.imshow('Result',img)
-    if cv2.waitKey(1) & 0xFF==ord('q'):
-        break
+    # cv2.imshow('Result',img)
+    # if cv2.waitKey(1) & 0xFF==ord('q'):
+    #     break
